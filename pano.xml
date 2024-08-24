@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" start="node6" apprev="18043">
+  <panorama id="node6">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" width="1000" levelingroll="0">
+      <level preload="0" predecode="0" height="1000" width="1000"/>
+      <level preload="1" predecode="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata info="" heading="0" title="" source="" nodeid="node6" customnodeid="" copyright="" comment="" description="" tags="pano" longitude="" datetime="2/4/2024 7:06 PM" author="" latitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" background="1" height="20" width="180" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="2" title="Outer Terrace 1" skinid="ht_node" tilt="-28.94" target="77.6/-33.3/70.0" url="{node7}" description="" pan="-276.02"/>
+      <hotspot id="4" title="Outer Terrace 2" skinid="ht_node" tilt="-19.37" target="-151.3/-29.9/70.0" url="{node8}" description="" pan="-320.49"/>
+      <hotspot id="3" title="Upstairs Hall" skinid="ht_node" tilt="39.58" target="-1.7/-16.8/70.0" url="{node9}" description="" pan="-34.3"/>
+      <hotspot id="Point01" title="Walkway 1" skinid="ht_node" tilt="-10.4" target="-9.5/0.9/70.0" url="{node5}" description="" pan="-8.14"/>
+      <hotspot id="5" title="Closed Section" skinid="ht_node" tilt="-9.8" target="36.8/-1.8/70.0" url="{node9}" description="" pan="-333.01"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" enabled="1" zoomafterinfov="90" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="3.5" zoomafteroutfov="20" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" width="1000" levelingroll="0">
+      <level preload="0" predecode="0" height="1000" width="1000"/>
+      <level preload="1" predecode="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata info="" heading="0" title="" source="" nodeid="node7" customnodeid="" copyright="" comment="" description="" tags="pano" longitude="" datetime="2/4/2024 7:07 PM" author="" latitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" background="1" height="20" width="180" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="5" title="Closed Section" skinid="ht_node" tilt="-6.31" target="179.9/-1.7/70.0" url="{node9}" description="" pan="-2.87"/>
+      <hotspot id="4" title="Walkway 1" skinid="ht_node" tilt="-10.86" target="-68.9/0.8/70.0" url="{node5}" description="" pan="-35.08"/>
+      <hotspot id="1" title="Entrance" skinid="ht_node" tilt="-21.79" target="-127.6/0.4/70.0" url="{node6}" description="" pan="-107.56"/>
+      <hotspot id="3" title="Outer Terrace 2" skinid="ht_node" tilt="-20.4" target="174.6/-0.2/70.0" url="{node8}" description="" pan="-10.74"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" enabled="1" zoomafterinfov="90" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="3.5" zoomafteroutfov="20" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" width="1000" levelingroll="0">
+      <level preload="0" predecode="0" height="1000" width="1000"/>
+      <level preload="1" predecode="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata info="" heading="0" title="" source="" nodeid="node8" customnodeid="" copyright="" comment="" description="" tags="pano" longitude="" datetime="2/4/2024 7:06 PM" author="" latitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" background="1" height="20" width="180" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="4" title="Walkway 1" skinid="ht_node" tilt="-24.68" target="-89.6/1.0/70.0" url="{node5}" description="" pan="-254.57"/>
+      <hotspot id="2" title="Living Room" skinid="ht_node" tilt="-16.18" target="178.8/-0.5/70.0" url="{node7}" description="" pan="-6.72"/>
+      <hotspot id="01" title="Entrance" skinid="ht_node" tilt="-7.51" target="-172.8/1.6/70.0" url="{node6}" description="" pan="-334.92"/>
+      <hotspot id="5" title="Closed Section" skinid="ht_node" tilt="-29.91" target="0.0/0.0/70.0" url="{node9}" description="" pan="-166.74"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" enabled="1" zoomafterinfov="90" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="3.5" zoomafteroutfov="20" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" width="1000" levelingroll="0">
+      <level preload="0" predecode="0" height="1000" width="1000"/>
+      <level preload="1" predecode="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata info="" heading="0" title="" source="" nodeid="node5" customnodeid="" copyright="" comment="" description="" tags="pano" longitude="" datetime="2/4/2024 5:31 PM" author="" latitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" background="1" height="20" width="180" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="1" title="Entrance" skinid="ht_node" tilt="-6.76" target="178.5/-0.6/70.0" url="{node6}" description="" pan="-188.65"/>
+      <hotspot id="8" title="Walkway 2" skinid="ht_node" tilt="-16.93" target="-1.0/-6.5/70.0" url="{node12}" description="" pan="-351.88"/>
+      <hotspot id="7" title="Inner Terrace 2" skinid="ht_node" tilt="-9.38" target="9.9/-0.9/70.0" url="{node11}" description="" pan="-329.77"/>
+      <hotspot id="2" title="Outer Terrace 1" skinid="ht_node" tilt="-13.07" target="-179.7/-4.8/70.0" url="{node7}" description="" pan="-210.77"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" enabled="1" zoomafterinfov="90" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="3.5" zoomafteroutfov="20" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" width="1000" levelingroll="0">
+      <level preload="0" predecode="0" height="1000" width="1000"/>
+      <level preload="1" predecode="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata info="" heading="0" title="" source="" nodeid="node9" customnodeid="" copyright="" comment="" description="" tags="Pano2VR6" longitude="" datetime="" author="" latitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" background="1" height="20" width="180" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="3" title="Outer Terrace 2" skinid="ht_node" tilt="-38.02" target="-0.6/-14.9/70.0" url="{node8}" description="" pan="-183.01"/>
+      <hotspot id="6" title="Inner Terrace 1" skinid="ht_node" tilt="-29.12" target="-2.4/-2.3/70.0" url="{node10}" description="" pan="-354.62"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" enabled="1" zoomafterinfov="90" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="3.5" zoomafteroutfov="20" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" width="1000" levelingroll="0">
+      <level preload="0" predecode="0" height="1000" width="1000"/>
+      <level preload="1" predecode="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata info="" heading="0" title="" source="" nodeid="node10" customnodeid="" copyright="" comment="" description="" tags="Pano2VR6" longitude="" datetime="" author="" latitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" background="1" height="20" width="180" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="5" title="Closed Section" skinid="ht_node" tilt="-22.57" target="-178.4/-5.5/70.0" url="{node9}" description="" pan="-179.48"/>
+      <hotspot id="7" title="Outer Terrace 2" skinid="ht_node" tilt="-15.92" target="1.1/-2.8/70.0" url="{node11}" description="" pan="-347.82"/>
+      <hotspot id="8" title="Walkway 2" skinid="ht_node" tilt="-23.23" target="-55.8/-8.8/70.0" url="{node12}" description="" pan="-61.9"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" enabled="1" zoomafterinfov="90" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="3.5" zoomafteroutfov="20" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" width="1000" levelingroll="0">
+      <level preload="0" predecode="0" height="1000" width="1000"/>
+      <level preload="1" predecode="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata info="" heading="0" title="" source="" nodeid="node11" customnodeid="" copyright="" comment="" description="" tags="Pano2VR6" longitude="" datetime="" author="" latitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" background="1" height="20" width="180" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="6" title="Inner Terrace 1" skinid="ht_node" tilt="-17.93" target="-177.9/-2.2/70.0" url="{node10}" description="" pan="-173.88"/>
+      <hotspot id="8" title="Walkway 2" skinid="ht_node" tilt="-18.73" target="-124.7/-4.1/70.0" url="{node12}" description="" pan="-123.3"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" enabled="1" zoomafterinfov="90" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="3.5" zoomafteroutfov="20" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" width="1000" levelingroll="0">
+      <level preload="0" predecode="0" height="1000" width="1000"/>
+      <level preload="1" predecode="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata info="" heading="0" title="" source="" nodeid="node12" customnodeid="" copyright="" comment="" description="" tags="Pano2VR6" longitude="" datetime="" author="" latitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderalpha="1" enabled="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" background="1" height="20" width="180" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="7" title="Inner Terrace 2" skinid="ht_node" tilt="-18.65" target="35.1/-7.8/70.0" url="{node11}" description="" pan="-311.01"/>
+      <hotspot id="6" title="Inner Terrace 1" skinid="ht_node" tilt="-28.93" target="155.1/-10.5/70.0" url="{node10}" description="" pan="-230.37"/>
+      <hotspot id="4" title="Walkway 1" skinid="ht_node" tilt="-17.2" target="174.3/-0.9/70.0" url="{node5}" description="" pan="-170.26"/>
+      <hotspot id="5" title="Closed Section" skinid="ht_node" tilt="-13.58" target="-34.0/-5.2/70.0" url="{node9}" description="" pan="-222.09"/>
+      <hotspot id="1" title="Entrance" skinid="ht_node" tilt="-7.32" target="-177.9/1.0/70.0" url="{node6}" description="" pan="-179.83"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" enabled="1" zoomafterinfov="90" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="3.5" zoomafteroutfov="20" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata info="" heading="0" title="" source="" nodeid="master" customnodeid="" copyright="" comment="" description="" tags="" longitude="" datetime="" author="" latitude=""/>
+  </masternode>
+  <map id="FloorPlan01" bgcolor="rgba(255, 255, 255, 1)" title="Bathroom Floor Plan" floorplannorth="220" tileformat="jpg" zoomlevels="1" transparent="0" height="0" width="0" type="file"/>
+</tour>
